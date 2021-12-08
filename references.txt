@@ -1,0 +1,5 @@
+Websites and sources to look into for guidance.
+
+Exploratory data analysis:
+https://towardsdatascience.com/exploratory-data-analysis-eda-python-87178e35b14
+https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce
